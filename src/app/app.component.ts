@@ -27,7 +27,7 @@ export class AppComponent {
       followers: 1902,
       followings: 543,
     }, {
-      username: 'Darkmage',
+      username: 'Darkmage40k',
       fname: 'Dark Mage',
       pfp: 'pfp3.webp',
       banner: 'banner3.jpg',
